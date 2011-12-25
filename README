@@ -1,0 +1,3 @@
+Zepto.JS adapter for Highcharts (http://highcharts.com)
+
+Important: animations are not supported yet, you should disable it manualy in charts options.
