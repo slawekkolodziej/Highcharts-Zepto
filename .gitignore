@@ -1,0 +1,4 @@
+# Ignore libraries files
+js/zepto.js
+js/highcharts.src.js
+js/jquery*
